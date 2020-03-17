@@ -11,7 +11,7 @@ import UIKit
 
 class FullscreenAd: NSObject {
     var interstitial: GADInterstitial!
-    static let shared = FullscreenAd(id: "ca-app-pub-3833820876743264/8966239009")
+    static let shared = FullscreenAd(id: "ca-app-pub-9113432081694139/7289883533")
 
     var showed = false
 

@@ -83,7 +83,7 @@ class MainController: ThemedUIViewController {
 
         tableView.reloadData()
 
-        adsView.adUnitID = "ca-app-pub-3833820876743264/1345533898"
+        adsView.adUnitID = "ca-app-pub-9113432081694139/5430006951"
         adsView.rootViewController = self
         adsView.delegate = self
 
